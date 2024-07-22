@@ -1,12 +1,12 @@
-# Daiko Finance
+# Kizuna Finance
 
-![Daiko Finance Logo](link_to_your_logo_image)
+![Kizuna Finance Logo](link_to_your_logo_image)
 
-Welcome to **Daiko Finance** - A Decentralized Cross Chain Financial Tools Bridge, DEX, and more.
+Welcome to **Kizuna Finance** - A Decentralized Cross Chain Financial Tools Bridge, DEX, and more.
 
 ## About Us
 
-Daiko Finance is dedicated to revolutionizing the world of decentralized finance (DeFi) by providing innovative cross-chain financial tools. Our platform serves as a bridge for seamless asset transfers, a decentralized exchange (DEX) for efficient trading, and a suite of financial tools designed to empower users in the DeFi ecosystem.
+Kizuna Finance is dedicated to revolutionizing the world of decentralized finance (DeFi) by providing innovative cross-chain financial tools. Our platform serves as a bridge for seamless asset transfers, a decentralized exchange (DEX) for efficient trading, and a suite of financial tools designed to empower users in the DeFi ecosystem.
 
 ## Our Mission
 
@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Connect With Us
 
-- **Twitter**: [@DaikoFinance](https://twitter.com/DaikoFinance)
-- **Telegram**: [@DaikoFinance](https://t.me/DaikoFinance)
-- **Discord**: [Daiko Finance Community](https://discord.gg/DaikoFinance)
-- **Email**: hello@daiko.fi
+- **Twitter**: [@KizunaFinance](https://twitter.com/KizunaFinance)
+- **Telegram**: [@KizunaFinance](https://t.me/KizunaFinance)
+- **Discord**: [Kizuna Finance Community](https://discord.gg/KizunaFinance)
+- **Email**: hello@Kizuna.fi
