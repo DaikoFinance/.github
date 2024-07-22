@@ -1,6 +1,6 @@
 # Kizuna Finance
 
-![Kizuna Finance Logo](link_to_your_logo_image)
+![Kizuna Finance Logo](https://alpha.kizuna.fi/kizuna-white.svg)
 
 Welcome to **Kizuna Finance** - A Decentralized Cross Chain Financial Tools Bridge, DEX, and more.
 
